@@ -1,4 +1,4 @@
-# GopalDB
+# GopalDB. (AI se README banwaya hai baki sab mera hai!)
 
 A small relational database with a SQL interface, written from scratch in Python
 (no SQLite, no parsing libraries). Built to understand how databases like MySQL
